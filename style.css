@@ -64,13 +64,13 @@
     justify-content: center;
 }
 
-.card__result__note h3 {
+.card__result__note h2 {
     font-size: 45px;
     color: hsl(0, 0%, 100%);
     font-weight: 800;
 }
 
-.card__result h2 {
+.card__result h3 {
     color: hsl(0, 0%, 100%);
     font-size: 30px;
     font-weight: 700;
